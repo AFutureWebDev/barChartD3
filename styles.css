@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+rect {
+    fill: steelblue;
+}
+
+text {
+    font-size: 1.4em;
+}
